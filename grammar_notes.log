@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.13.0 (TeX Live 2021)  (format=lualatex 2021.12.14)  21 MAY 2024 21:11
+This is LuaHBTeX, Version 1.13.0 (TeX Live 2021)  (format=lualatex 2021.12.14)  17 JUN 2024 13:39
  restricted system commands enabled.
  file:line:error style messages enabled.
 **grammar_notes.tex
@@ -854,18 +854,15 @@ Missing character: There is no 查 (U+67E5) in font file:HaranoAjiMincho-Regular
 
 LaTeX Warning: There were undefined references.
 
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
 )
 
 Here is how much of LuaTeX's memory you used:
  6176 strings out of 478531
- 382267,552014 words of node,token memory allocated
+ 382245,552014 words of node,token memory allocated
  80081 words of node memory still in use:
    9 hlist, 1 vlist, 5 rule, 11 glue, 6 kern, 2 penalty, 2 glyph, 12355 attribut
 e, 10164 glue_spec, 722 attribute_list, 1 write, 694 user_defined nodes
-   avail lists: 1:28,2:79508,3:1107,4:277,5:399,6:113,7:8522,8:3,9:2171,10:22,11
+   avail lists: 1:24,2:79508,3:1107,4:277,5:399,6:113,7:8522,8:4,9:2171,10:22,11
 :339
  25340 multiletter control sequences out of 65536+600000
  72 fonts using 62627279 bytes
@@ -886,7 +883,7 @@ oman17-regular.otf></usr/local/texlive/2021/texmf-dist/fonts/type1/public/lm/lmm
 i10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/lm/lmmi12.pfb></u
 sr/local/texlive/2021/texmf-dist/fonts/type1/public/lm/lmr7.pfb></usr/local/texl
 ive/2021/texmf-dist/fonts/type1/public/lm/lmr8.pfb>
-Output written on grammar_notes.pdf (100 pages, 497785 bytes).
+Output written on grammar_notes.pdf (100 pages, 497861 bytes).
 
 PDF statistics: 405 PDF objects out of 1000 (max. 8388607)
  266 compressed objects within 3 object streams
