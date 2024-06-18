@@ -1,0 +1,7 @@
+\babel@toc {japanese}{}
+\contentsline {section}{\numberline {1}Lekce 1}{2}{section.1}%
+\contentsline {section}{\numberline {2}Lekce 3}{3}{section.2}%
+\contentsline {section}{\numberline {3}Lekce 4}{4}{section.3}%
+\contentsline {section}{\numberline {4}Lekce 5}{5}{section.4}%
+\contentsline {section}{\numberline {5}Lekce 6}{6}{section.5}%
+\contentsline {section}{\numberline {6}Lekce 24}{8}{section.6}%
