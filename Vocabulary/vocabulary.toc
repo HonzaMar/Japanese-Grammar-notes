@@ -1,7 +1,14 @@
 \babel@toc {japanese}{}
 \contentsline {section}{\numberline {1}Lekce 1}{2}{section.1}%
-\contentsline {section}{\numberline {2}Lekce 3}{3}{section.2}%
-\contentsline {section}{\numberline {3}Lekce 4}{4}{section.3}%
+\contentsline {section}{\numberline {2}Lekce 3}{2}{section.2}%
+\contentsline {section}{\numberline {3}Lekce 4}{3}{section.3}%
 \contentsline {section}{\numberline {4}Lekce 5}{5}{section.4}%
 \contentsline {section}{\numberline {5}Lekce 6}{6}{section.5}%
-\contentsline {section}{\numberline {6}Lekce 24}{8}{section.6}%
+\contentsline {section}{\numberline {6}Lekce 7}{7}{section.6}%
+\contentsline {section}{\numberline {7}Lekce 8}{9}{section.7}%
+\contentsline {section}{\numberline {8}Lekce 9}{10}{section.8}%
+\contentsline {section}{\numberline {9}Lekce 10}{11}{section.9}%
+\contentsline {section}{\numberline {10}Lekce 11}{13}{section.10}%
+\contentsline {section}{\numberline {11}Lekce 12}{14}{section.11}%
+\contentsline {section}{\numberline {12}Lekce 13}{16}{section.12}%
+\contentsline {section}{\numberline {13}Lekce 24}{18}{section.13}%
