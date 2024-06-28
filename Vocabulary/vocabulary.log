@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.13.0 (TeX Live 2021)  (format=lualatex 2021.12.14)  19 JUN 2024 16:18
+This is LuaHBTeX, Version 1.13.0 (TeX Live 2021)  (format=lualatex 2021.12.14)  28 JUN 2024 16:39
  restricted system commands enabled.
  file:line:error style messages enabled.
 **vocabulary.tex
@@ -1458,14 +1458,15 @@ LaTeX Font Info:    Font shape `JY3/mc/m/n' will be
 (Font)              scaled to size 7.0pt on input line 2.
 LaTeX Font Info:    Font shape `JY3/mc/m/n' will be
 (Font)              scaled to size 5.0pt on input line 2.
-)
+
+[1
+
+{/usr/local/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map}])
 \tf@toc=\write4
 
 \openout4 = vocabulary.toc
-[1
 
-{/usr/local/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-(./lekce/lekce_1.tex
+[2] (./lekce/lekce_1.tex
 > Step: init table outer spec.
 > Step: parse table options.
 > Step: split table.
@@ -1474,7 +1475,7 @@ LaTeX Font Info:    Font shape `JY3/mc/m/n' will be
 > Step: execute table commands.
 > Step: calculate cell and line sizes.
 > Step: build the whole table.
-) (./lekce/lekce_3.tex
+) (./lekce/lekce_2.tex
 > Step: init table outer spec.
 > Step: parse table options.
 > Step: split table.
@@ -1483,35 +1484,7 @@ LaTeX Font Info:    Font shape `JY3/mc/m/n' will be
 > Step: execute table commands.
 > Step: calculate cell and line sizes.
 > Step: build the whole table.
- [2]) (./lekce/lekce_4.tex
-> Step: init table outer spec.
-> Step: parse table options.
-> Step: split table.
-> Step: init table inner spec.
-> Step: parse table inner spec.
-> Step: execute table commands.
-> Step: calculate cell and line sizes.
-> Step: build the whole table.
- [3]
-[4]) (./lekce/lekce_5.tex
-> Step: init table outer spec.
-> Step: parse table options.
-> Step: split table.
-> Step: init table inner spec.
-> Step: parse table inner spec.
-> Step: execute table commands.
-> Step: calculate cell and line sizes.
-> Step: build the whole table.
- [5]) (./lekce/lekce_6.tex
-> Step: init table outer spec.
-> Step: parse table options.
-> Step: split table.
-> Step: init table inner spec.
-> Step: parse table inner spec.
-> Step: execute table commands.
-> Step: calculate cell and line sizes.
-> Step: build the whole table.
- [6]) (./lekce/lekce_7.tex
+ [3]) (./lekce/lekce_3.tex
 > Step: init table outer spec.
 > Step: parse table options.
 > Step: split table.
@@ -1521,7 +1494,7 @@ LaTeX Font Info:    Font shape `JY3/mc/m/n' will be
 > Step: calculate cell and line sizes.
 > Step: build the whole table.
 
-[7]) (./lekce/lekce_8.tex
+[4]) (./lekce/lekce_4.tex
 > Step: init table outer spec.
 > Step: parse table options.
 > Step: split table.
@@ -1530,7 +1503,35 @@ LaTeX Font Info:    Font shape `JY3/mc/m/n' will be
 > Step: execute table commands.
 > Step: calculate cell and line sizes.
 > Step: build the whole table.
- [8] [9]) (./lekce/lekce_9.tex
+ [5]) (./lekce/lekce_5.tex
+> Step: init table outer spec.
+> Step: parse table options.
+> Step: split table.
+> Step: init table inner spec.
+> Step: parse table inner spec.
+> Step: execute table commands.
+> Step: calculate cell and line sizes.
+> Step: build the whole table.
+ [6]) (./lekce/lekce_6.tex
+> Step: init table outer spec.
+> Step: parse table options.
+> Step: split table.
+> Step: init table inner spec.
+> Step: parse table inner spec.
+> Step: execute table commands.
+> Step: calculate cell and line sizes.
+> Step: build the whole table.
+
+[7] [8]) (./lekce/lekce_7.tex
+> Step: init table outer spec.
+> Step: parse table options.
+> Step: split table.
+> Step: init table inner spec.
+> Step: parse table inner spec.
+> Step: execute table commands.
+> Step: calculate cell and line sizes.
+> Step: build the whole table.
+ [9]) (./lekce/lekce_8.tex
 > Step: init table outer spec.
 > Step: parse table options.
 > Step: split table.
@@ -1540,7 +1541,7 @@ LaTeX Font Info:    Font shape `JY3/mc/m/n' will be
 > Step: calculate cell and line sizes.
 > Step: build the whole table.
  [10])
-(./lekce/lekce_10.tex
+(./lekce/lekce_9.tex
 > Step: init table outer spec.
 > Step: parse table options.
 > Step: split table.
@@ -1549,7 +1550,7 @@ LaTeX Font Info:    Font shape `JY3/mc/m/n' will be
 > Step: execute table commands.
 > Step: calculate cell and line sizes.
 > Step: build the whole table.
- [11]) (./lekce/lekce_11.tex [12]
+ [11]) (./lekce/lekce_10.tex [12]
 > Step: init table outer spec.
 > Step: parse table options.
 > Step: split table.
@@ -1559,7 +1560,7 @@ LaTeX Font Info:    Font shape `JY3/mc/m/n' will be
 > Step: calculate cell and line sizes.
 > Step: build the whole table.
  [13])
-(./lekce/lekce_12.tex
+(./lekce/lekce_11.tex
 > Step: init table outer spec.
 > Step: parse table options.
 > Step: split table.
@@ -1568,7 +1569,7 @@ LaTeX Font Info:    Font shape `JY3/mc/m/n' will be
 > Step: execute table commands.
 > Step: calculate cell and line sizes.
 > Step: build the whole table.
- [14] [15]) (./lekce/lekce_13.tex
+ [14] [15]) (./lekce/lekce_12.tex
 > Step: init table outer spec.
 > Step: parse table options.
 > Step: split table.
@@ -1578,6 +1579,133 @@ LaTeX Font Info:    Font shape `JY3/mc/m/n' will be
 > Step: calculate cell and line sizes.
 > Step: build the whole table.
  [16] [17])
+(./lekce/lekce_13.tex
+> Step: init table outer spec.
+> Step: parse table options.
+> Step: split table.
+> Step: init table inner spec.
+> Step: parse table inner spec.
+> Step: execute table commands.
+> Step: calculate cell and line sizes.
+> Step: build the whole table.
+ [18]) (./lekce/lekce_14.tex
+> Step: init table outer spec.
+> Step: parse table options.
+> Step: split table.
+> Step: init table inner spec.
+> Step: parse table inner spec.
+> Step: execute table commands.
+> Step: calculate cell and line sizes.
+(load cache: extra_lmroman10-bold.luc)
+LaTeX Font Info:    Font shape `JT3/mc/b/n' in size <10> not available
+(Font)              Font shape `JT3/gt/m/n' tried instead on input line 57.
+LaTeX Font Info:    Font shape `JT3/gt/m/n' will be
+(Font)              scaled to size 10.0pt on input line 57.
+LaTeX Font Info:    Font shape `JY3/mc/b/n' in size <10> not available
+(Font)              Font shape `JY3/gt/m/n' tried instead on input line 57.
+LaTeX Font Info:    Font shape `JY3/gt/m/n' will be
+(Font)              scaled to size 10.0pt on input line 57.
+> Step: build the whole table.
+ [19] [20])
+(./lekce/lekce_15.tex
+> Step: init table outer spec.
+> Step: parse table options.
+> Step: split table.
+> Step: init table inner spec.
+> Step: parse table inner spec.
+> Step: execute table commands.
+> Step: calculate cell and line sizes.
+> Step: build the whole table.
+ [21]) (./lekce/lekce_16.tex
+> Step: init table outer spec.
+> Step: parse table options.
+> Step: split table.
+> Step: init table inner spec.
+> Step: parse table inner spec.
+> Step: execute table commands.
+> Step: calculate cell and line sizes.
+> Step: build the whole table.
+ [22] [23])
+(./lekce/lekce_17.tex
+> Step: init table outer spec.
+> Step: parse table options.
+> Step: split table.
+> Step: init table inner spec.
+> Step: parse table inner spec.
+> Step: execute table commands.
+> Step: calculate cell and line sizes.
+
+
+Package tabularray Warning: Table width is too small, need 18.98988pt more!
+
+> Step: build the whole table.
+
+Overfull \hbox (18.98988pt too wide) detected at line 40
+[] [] 
+ []
+
+[24]
+Overfull \hbox (18.98988pt too wide) detected at line 40
+[] [] 
+ []
+
+) (./lekce/lekce_18.tex
+> Step: init table outer spec.
+> Step: parse table options.
+> Step: split table.
+> Step: init table inner spec.
+> Step: parse table inner spec.
+> Step: execute table commands.
+> Step: calculate cell and line sizes.
+> Step: build the whole table.
+ [25]) (./lekce/lekce_19.tex
+> Step: init table outer spec.
+> Step: parse table options.
+> Step: split table.
+> Step: init table inner spec.
+> Step: parse table inner spec.
+> Step: execute table commands.
+> Step: calculate cell and line sizes.
+> Step: build the whole table.
+ [26] [27])
+(./lekce/lekce_20.tex
+> Step: init table outer spec.
+> Step: parse table options.
+> Step: split table.
+> Step: init table inner spec.
+> Step: parse table inner spec.
+> Step: execute table commands.
+> Step: calculate cell and line sizes.
+> Step: build the whole table.
+ [28]) (./lekce/lekce_21.tex
+> Step: init table outer spec.
+> Step: parse table options.
+> Step: split table.
+> Step: init table inner spec.
+> Step: parse table inner spec.
+> Step: execute table commands.
+> Step: calculate cell and line sizes.
+> Step: build the whole table.
+ [29] [30])
+(./lekce/lekce_22.tex
+> Step: init table outer spec.
+> Step: parse table options.
+> Step: split table.
+> Step: init table inner spec.
+> Step: parse table inner spec.
+> Step: execute table commands.
+> Step: calculate cell and line sizes.
+> Step: build the whole table.
+ [31] [32]) (./lekce/lekce_23.tex
+> Step: init table outer spec.
+> Step: parse table options.
+> Step: split table.
+> Step: init table inner spec.
+> Step: parse table inner spec.
+> Step: execute table commands.
+> Step: calculate cell and line sizes.
+> Step: build the whole table.
+ [33] [34])
 (./lekce/lekce_24.tex
 > Step: init table outer spec.
 > Step: parse table options.
@@ -1596,27 +1724,140 @@ Overfull \hbox (6.6999pt too wide) detected at line 42
 [] [] 
  []
 
-[18]
+[35]
 Overfull \hbox (6.6999pt too wide) detected at line 42
 [] [] 
  []
 
-) [19] (./vocabulary.aux)
+) (./lekce/lekce_25.tex
+> Step: init table outer spec.
+> Step: parse table options.
+> Step: split table.
+> Step: init table inner spec.
+> Step: parse table inner spec.
+> Step: execute table commands.
+> Step: calculate cell and line sizes.
+> Step: build the whole table.
+ [36] [37]) (./lekce/lekce_26.tex
+> Step: init table outer spec.
+> Step: parse table options.
+> Step: split table.
+> Step: init table inner spec.
+> Step: parse table inner spec.
+> Step: execute table commands.
+> Step: calculate cell and line sizes.
+
+
+Package tabularray Warning: Table width is too small, need 68.06989pt more!
+
+> Step: build the whole table.
+
+Overfull \hbox (68.06989pt too wide) detected at line 51
+[] [] 
+ []
+
+[38]
+Overfull \hbox (68.06989pt too wide) detected at line 51
+[] [] 
+ []
+
+[39]
+Overfull \hbox (68.06989pt too wide) detected at line 51
+[] [] 
+ []
+
+) (./lekce/lekce_27.tex
+> Step: init table outer spec.
+> Step: parse table options.
+> Step: split table.
+> Step: init table inner spec.
+> Step: parse table inner spec.
+> Step: execute table commands.
+> Step: calculate cell and line sizes.
+> Step: build the whole table.
+ [40]) (./lekce/lekce_28.tex
+> Step: init table outer spec.
+> Step: parse table options.
+> Step: split table.
+> Step: init table inner spec.
+> Step: parse table inner spec.
+> Step: execute table commands.
+> Step: calculate cell and line sizes.
+> Step: build the whole table.
+ [41] [42])
+(./lekce/lekce_29.tex
+> Step: init table outer spec.
+> Step: parse table options.
+> Step: split table.
+> Step: init table inner spec.
+> Step: parse table inner spec.
+> Step: execute table commands.
+> Step: calculate cell and line sizes.
+> Step: build the whole table.
+ [43] [44]) (./lekce/lekce_30.tex
+> Step: init table outer spec.
+> Step: parse table options.
+> Step: split table.
+> Step: init table inner spec.
+> Step: parse table inner spec.
+> Step: execute table commands.
+> Step: calculate cell and line sizes.
+> Step: build the whole table.
+ [45] [46])
+(./lekce/lekce_31.tex
+> Step: init table outer spec.
+> Step: parse table options.
+> Step: split table.
+> Step: init table inner spec.
+> Step: parse table inner spec.
+> Step: execute table commands.
+> Step: calculate cell and line sizes.
+> Step: build the whole table.
+ [47]) (./lekce/lekce_32.tex
+> Step: init table outer spec.
+> Step: parse table options.
+> Step: split table.
+> Step: init table inner spec.
+> Step: parse table inner spec.
+> Step: execute table commands.
+> Step: calculate cell and line sizes.
+> Step: build the whole table.
+ [48] [49])
+(./lekce/lekce_33.tex
+> Step: init table outer spec.
+> Step: parse table options.
+> Step: split table.
+> Step: init table inner spec.
+> Step: parse table inner spec.
+> Step: execute table commands.
+> Step: calculate cell and line sizes.
+> Step: build the whole table.
+ [50]) (./lekce/lekce_34.tex
+> Step: init table outer spec.
+> Step: parse table options.
+> Step: split table.
+> Step: init table inner spec.
+> Step: parse table inner spec.
+> Step: execute table commands.
+> Step: calculate cell and line sizes.
+> Step: build the whole table.
+ [51] [52])
+(./lekce/lekce_35.tex) [53] (./vocabulary.aux)
 Package rerunfilecheck Info: File `vocabulary.out' has not changed.
-(rerunfilecheck)             Checksum: 6E520FE4B5A9BE662F06DE6C0000890F;1086.
+(rerunfilecheck)             Checksum: 29E59FC531901426DF2E5A77D4DEBCAA;3017.
 )
 
 Here is how much of LuaTeX's memory you used:
- 15399 strings out of 478531
- 477819,794899 words of node,token memory allocated
- 24138 words of node memory still in use:
-   9 hlist, 1 vlist, 5 rule, 5 glue, 3 kern, 8 penalty, 2 glyph, 2024 attribute,
- 3844 glue_spec, 115 attribute_list, 1 write, 87 user_defined nodes
-   avail lists: 1:31,2:153232,3:727,4:4675,5:80,6:467,7:8592,8:47,9:6799,10:8,11
-:94
- 34575 multiletter control sequences out of 65536+600000
- 101 fonts using 52995207 bytes
- 127i,6n,124p,1769b,1509s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 16245 strings out of 478531
+ 597273,953878 words of node,token memory allocated
+ 65684 words of node memory still in use:
+   9 hlist, 1 vlist, 5 rule, 5 glue, 3 kern, 16 penalty, 2 glyph, 4215 attribute
+, 11126 glue_spec, 242 attribute_list, 1 write, 206 user_defined nodes
+   avail lists: 1:43,2:164648,3:742,4:4597,5:102,6:467,7:9024,8:82,9:6892,10:12,
+11:118
+ 35080 multiletter control sequences out of 65536+600000
+ 166 fonts using 61248495 bytes
+ 127i,6n,124p,1769b,1616s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2021/texmf-dist/fonts/opentype/public/lm/lmsans10-bold.otf><
 /usr/local/texlive/2021/texmf-dist/fonts/opentype/public/lm/lmroman9-regular.otf
 ></usr/local/texlive/2021/texmf-dist/fonts/opentype/public/lm/lmroman10-regular.
@@ -1625,10 +1866,10 @@ iGothic-Medium.otf></usr/local/texlive/2021/texmf-dist/fonts/opentype/public/har
 anoaji/HaranoAjiMincho-Regular.otf></usr/local/texlive/2021/texmf-dist/fonts/ope
 ntype/public/lm/lmroman12-regular.otf></usr/local/texlive/2021/texmf-dist/fonts/
 opentype/public/lm/lmroman17-regular.otf>
-Output written on vocabulary.pdf (19 pages, 146457 bytes).
+Output written on vocabulary.pdf (53 pages, 306641 bytes).
 
-PDF statistics: 219 PDF objects out of 1000 (max. 8388607)
- 175 compressed objects within 2 object streams
- 46 named destinations out of 1000 (max. 131072)
- 105 words of extra memory for PDF output out of 10000 (max. 100000000)
+PDF statistics: 496 PDF objects out of 1000 (max. 8388607)
+ 415 compressed objects within 5 object streams
+ 123 named destinations out of 1000 (max. 131072)
+ 281 words of extra memory for PDF output out of 10000 (max. 100000000)
 
