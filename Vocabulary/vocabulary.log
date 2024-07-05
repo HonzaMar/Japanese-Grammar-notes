@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.13.0 (TeX Live 2021)  (format=lualatex 2021.12.14)  28 JUN 2024 16:39
+This is LuaHBTeX, Version 1.13.0 (TeX Live 2021)  (format=lualatex 2021.12.14)  5 JUL 2024 16:08
  restricted system commands enabled.
  file:line:error style messages enabled.
 **vocabulary.tex
@@ -1842,21 +1842,96 @@ Overfull \hbox (68.06989pt too wide) detected at line 51
 > Step: calculate cell and line sizes.
 > Step: build the whole table.
  [51] [52])
-(./lekce/lekce_35.tex) [53] (./vocabulary.aux)
+(./lekce/lekce_35.tex
+> Step: init table outer spec.
+> Step: parse table options.
+> Step: split table.
+> Step: init table inner spec.
+> Step: parse table inner spec.
+> Step: execute table commands.
+> Step: calculate cell and line sizes.
+> Step: build the whole table.
+ [53] [54]) (./lekce/lekce_36.tex
+> Step: init table outer spec.
+> Step: parse table options.
+> Step: split table.
+> Step: init table inner spec.
+> Step: parse table inner spec.
+> Step: execute table commands.
+> Step: calculate cell and line sizes.
+> Step: build the whole table.
+ [55])
+(./lekce/lekce_37.tex
+> Step: init table outer spec.
+> Step: parse table options.
+> Step: split table.
+> Step: init table inner spec.
+> Step: parse table inner spec.
+> Step: execute table commands.
+> Step: calculate cell and line sizes.
+> Step: build the whole table.
+ [56] [57]) (./lekce/lekce_38.tex
+> Step: init table outer spec.
+> Step: parse table options.
+> Step: split table.
+> Step: init table inner spec.
+> Step: parse table inner spec.
+> Step: execute table commands.
+> Step: calculate cell and line sizes.
+
+
+Package tabularray Warning: Table width is too small, need 48.41989pt more!
+
+> Step: build the whole table.
+
+Overfull \hbox (48.41989pt too wide) detected at line 47
+[] [] 
+ []
+
+[58]
+Overfull \hbox (48.41989pt too wide) detected at line 47
+[] [] 
+ []
+
+[59]
+Overfull \hbox (48.41989pt too wide) detected at line 47
+[] [] 
+ []
+
+) (./lekce/lekce_39.tex
+> Step: init table outer spec.
+> Step: parse table options.
+> Step: split table.
+> Step: init table inner spec.
+> Step: parse table inner spec.
+> Step: execute table commands.
+> Step: calculate cell and line sizes.
+> Step: build the whole table.
+ [60] [61]) (./lekce/lekce_40.tex
+> Step: init table outer spec.
+> Step: parse table options.
+> Step: split table.
+> Step: init table inner spec.
+> Step: parse table inner spec.
+> Step: execute table commands.
+> Step: calculate cell and line sizes.
+> Step: build the whole table.
+ [62]) [63]
+(./vocabulary.aux)
 Package rerunfilecheck Info: File `vocabulary.out' has not changed.
-(rerunfilecheck)             Checksum: 29E59FC531901426DF2E5A77D4DEBCAA;3017.
+(rerunfilecheck)             Checksum: 99EF8C695808070EB118AF0C0E6D9153;3457.
 )
 
 Here is how much of LuaTeX's memory you used:
- 16245 strings out of 478531
+ 16437 strings out of 478531
  597273,953878 words of node,token memory allocated
- 65684 words of node memory still in use:
-   9 hlist, 1 vlist, 5 rule, 5 glue, 3 kern, 16 penalty, 2 glyph, 4215 attribute
-, 11126 glue_spec, 242 attribute_list, 1 write, 206 user_defined nodes
-   avail lists: 1:43,2:164648,3:742,4:4597,5:102,6:467,7:9024,8:82,9:6892,10:12,
-11:118
- 35080 multiletter control sequences out of 65536+600000
- 166 fonts using 61248495 bytes
+ 77839 words of node memory still in use:
+   9 hlist, 1 vlist, 5 rule, 5 glue, 3 kern, 16 penalty, 2 glyph, 4776 attribute
+, 13293 glue_spec, 275 attribute_list, 1 write, 239 user_defined nodes
+   avail lists: 1:46,2:164054,3:755,4:4604,5:113,6:467,7:9296,8:82,9:6892,10:12,
+11:152
+ 35191 multiletter control sequences out of 65536+600000
+ 184 fonts using 62493999 bytes
  127i,6n,124p,1769b,1616s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2021/texmf-dist/fonts/opentype/public/lm/lmsans10-bold.otf><
 /usr/local/texlive/2021/texmf-dist/fonts/opentype/public/lm/lmroman9-regular.otf
@@ -1866,10 +1941,10 @@ iGothic-Medium.otf></usr/local/texlive/2021/texmf-dist/fonts/opentype/public/har
 anoaji/HaranoAjiMincho-Regular.otf></usr/local/texlive/2021/texmf-dist/fonts/ope
 ntype/public/lm/lmroman12-regular.otf></usr/local/texlive/2021/texmf-dist/fonts/
 opentype/public/lm/lmroman17-regular.otf>
-Output written on vocabulary.pdf (53 pages, 306641 bytes).
+Output written on vocabulary.pdf (63 pages, 346796 bytes).
 
-PDF statistics: 496 PDF objects out of 1000 (max. 8388607)
- 415 compressed objects within 5 object streams
- 123 named destinations out of 1000 (max. 131072)
- 281 words of extra memory for PDF output out of 10000 (max. 100000000)
+PDF statistics: 569 PDF objects out of 1000 (max. 8388607)
+ 478 compressed objects within 5 object streams
+ 144 named destinations out of 1000 (max. 131072)
+ 321 words of extra memory for PDF output out of 10000 (max. 100000000)
 
